@@ -1,7 +1,9 @@
-# Getting Started
+# BankLine API
+- Abstraindo o Domínio Bancário em Uma API REST com Java
+- Projeto realizado na Santander Dev Week
 
-### Reference Documentation
-For further reference, please consider the following sections:
+### Referência
+Para referência adicional, considere as seguintes seções:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/)
